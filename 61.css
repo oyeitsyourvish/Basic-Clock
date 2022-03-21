@@ -1,0 +1,17 @@
+*{
+    background-color: #eee;
+}
+
+
+#clock{
+    margin: 40vh auto;
+    text-align: center;
+    width: 35%;
+    border: 3px solid #d7ffd7;
+    padding: 10px;
+    font-size: 60px;
+    background: wheat;
+    box-shadow: 10px 10px lightblue;
+    border-top-width: thick;
+    cursor: pointer;
+}
